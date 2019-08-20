@@ -1,0 +1,6 @@
+.env
+node_modules/
+db_slackbutton_slash_command/*
+*~
+venv36/
+__pycache__/
